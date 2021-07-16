@@ -81,7 +81,7 @@
         }
     ],
     "dependencies": {
-        "@microsoft/generator-sharepoint": "1.12.1",
+        "@microsoft/generator-sharepoint": "*",
         "@pnp/office365-cli": "^2.12.0",
         "applicationinsights": "^1.8.8",
         "chalk": "^4.1.0",
